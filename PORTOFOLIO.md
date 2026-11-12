@@ -1,10 +1,5 @@
 # Portofolio Proyek Akhir Sistem Operasi
 
-## Identitas
-- **Nama**: Swastika Sisilia Saksono
-- **Kelompok**: 6A (Anggota 2 - Samba dan Klien)
-- **Tautan Repo**: https://github.com/Project-SO-6A/project_SO
-
 ---
 
 ## 1. Peran & Tanggung Jawab (Anggota 2)
